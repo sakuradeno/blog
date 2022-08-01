@@ -16,6 +16,8 @@ export default function Home() {
         file, and refresh.
       </p>
       <Counter start={3} />
+
+      <a href="/docs">Docs</a>
     </div>
   );
 }
